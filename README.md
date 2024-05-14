@@ -17,11 +17,6 @@ Bienvenidos al curso de Checo para principiantes. Este curso está diseñado par
    - [Realizar Cuestionario](./cuestionario.xml)
    - Una serie de preguntas diseñadas para evaluar tu comprensión de los temas tratados en el curso.
 
-## Recursos Adicionales
-
-- [Repositorios de Materiales Educativos](./PMED-RepositoriosMaterialesEducativos.pdf)
-  - Documento que detalla el uso de GitHub para la gestión de materiales educativos.
-
 ## Contribuir
 
 Si estás interesado en contribuir al curso o tienes sugerencias, no dudes en abrir un *issue* o enviar un *pull request*.
