@@ -1,13 +1,3 @@
-# Introducción al Checo
-
-## Pronunciación Básica
-Descripción breve de la pronunciación básica en checo, con ejemplos.
-
-## Frases Comunes
-Listado de frases comunes que puedes usar para empezar a comunicarte en checo.
-
-## Cultura Checa
-Una breve introducción a la cultura checa, que puede ser relevante para el aprendizaje del idioma.
 
  <!DOCTYPE html>
 <html>
