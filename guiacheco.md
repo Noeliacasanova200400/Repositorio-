@@ -1,19 +1,3 @@
-# Gramática Básica del Checo
-
-## Sustantivos
-Descripción de los sustantivos en checo, incluyendo género y número.
-
-## Verbos
-Explicación de la conjugación de verbos en checo.
-
-## Estructura de la Oración
-Guía sobre cómo formar oraciones básicas en checo.
-
-
-
-
-
-
 
 ---
 author: Noelia Casanova
